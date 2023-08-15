@@ -1,15 +1,9 @@
 # insertionSort
 
 Explanation 
-Insertion Sort Explained
 
-Default (GPT-3.5)
 
-User
-Explain to me insertion sort in details without code
-
-ChatGPT
-Sure! Insertion sort is a simple sorting algorithm that works by building a sorted array or list one item at a time. It's like sorting a hand of playing cards. Here's how it works:
+ Insertion sort is a simple sorting algorithm that works by building a sorted array or list one item at a time. It's like sorting a hand of playing cards. Here's how it works:
 
 Initial Setup: Imagine you have an unsorted array of elements. The algorithm starts with the assumption that the first element is already sorted, as a single element is inherently sorted.
 
